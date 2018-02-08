@@ -1,0 +1,8 @@
+Ari Cooper 
+Project 1, Sep 8, 2016 ------- 
+
+
+The mean bodytemp is: 98.25 degrees.
+The standard deviation for bodytemp is:  0.73 degrees.
+The mean hearrate is: 73.76 degrees.
+The standard deviation for heartrate is:  7.06 degrees.

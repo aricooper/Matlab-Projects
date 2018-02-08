@@ -1,0 +1,9 @@
+Ari Cooper 
+Project 1, Sep 8, 2016 ------- 
+
+
+The hotdog with the most calories is meat
+The hotdog with the least calories is poultry
+
+The hotdog with the most sodium is poultry
+The hotdog with the least sodium is beef
